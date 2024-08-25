@@ -1,0 +1,15 @@
+
+streamlit
+streamlit_webrtc
+av
+opencv-python
+numpy
+mediapipe
+keras
+tensorflow
+keras.models
+
+utils
+
+
+
